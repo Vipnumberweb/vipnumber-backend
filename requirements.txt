@@ -441,6 +441,7 @@ simplejson==3.17.6
 simpy==4.0.1
 singledispatch==3.7.0
 six==1.16.0
+setuptools==65.5.1
 smart-open==6.0.0
 smmap==5.0.0
 smmap2==3.0.1
