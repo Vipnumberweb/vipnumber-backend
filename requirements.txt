@@ -179,6 +179,7 @@ grappelli-safe==1.1.1
 greenlet==1.1.2
 grokcore.component==3.2.0
 grpcio==1.46.1
+gunicorn==23.0.0
 h11==0.13.0
 h2==4.1.0
 h5py==3.6.0

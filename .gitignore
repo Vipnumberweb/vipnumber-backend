@@ -4,3 +4,6 @@ __pycache__/
 *.sqlite3
 myenv/
 *.tar.gz
+myenv/
+__pycache__/
+*.pyc
